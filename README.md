@@ -7,10 +7,9 @@ $ whoami
 Shanmukh Dheekonda
 
 $ cat story.txt
-[ 5+ yrs ]  breaking web, mobile & network apps — legally
+[ 5+ yrs ]  breaking web, api & network apps — legally
 [ once  ]  hacked NASA. it was legal. ask me.
 [ acks  ]  credited for responsibly disclosing critical vulnerabilities
-[ rank  ]  #1 of 20,000 — Kalam Scientific Aptitude Test
 [ now   ]  exploring AI & LLM security
 ```
 
